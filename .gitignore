@@ -1,0 +1,9 @@
+# Ignorar pastas específicas
+_confs/
+_slides/
+
+# Ignorar todos os arquivos de uma extensão específica
+*.pem
+
+# Exceções (não ignorar um arquivo específico)
+# !pasta1/importante.txt
